@@ -31,11 +31,11 @@
     "titulo": "Lentidão crítica e quedas na conexão Wi-Fi corporativa",
     "categoria": "Rede e Internet",
     "descricao": "Os computadores da sala de treinamento perdem a conexão com a rede Wi-Fi a cada 15 minutos durante videoconferências.",
-    "status": "Aberto",
+    "status": "Em atendimento",
     "criadoEm": "2026-11-03T10:30:00.000Z",
-    "atualizadoEm": null,
+    "atualizadoEm": "2026-11-03T14:44:57.149Z",
     "encerradoEm": null,
-    "tecnico": null,
-    "notasAtendimento": null
+    "tecnico": "Lucas",
+    "notasAtendimento": "Estamos analisando a situação"
   }
 ]
