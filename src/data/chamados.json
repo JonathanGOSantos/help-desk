@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "solicitante": "Mariana Souza (Financeiro)",
+    "titulo": "Impressora do setor não imprime folhas",
+    "categoria": "Hardware",
+    "descricao": "A impressora HP do 2º andar está com a luz de erro vermelha piscando e não puxa o papel da bandeja 1.",
+    "status": "Em atendimento",
+    "criadoEm": "2026-11-02T14:20:00.000Z",
+    "atualizadoEm": "2026-11-03T09:15:00.000Z",
+    "encerradoEm": null,
+    "tecnico": "Lucas Mendes (Suporte N1)",
+    "notasAtendimento": "Verificado no local: atolamento de papel no cilindro de tração. Procedendo com a limpeza dos roletes."
+  },
+  {
+    "id": 2,
+    "solicitante": "Rodrigo Alves (Vendas)",
+    "titulo": "Acesso negado à pasta compartilhada da equipe",
+    "categoria": "Acesso e Permissões",
+    "descricao": "Após a mudança de setor não consigo mais acessar o diretório Z:\\Vendas\\Contratos2026.",
+    "status": "Concluído",
+    "criadoEm": "2026-11-01T10:00:00.000Z",
+    "atualizadoEm": "2026-11-01T11:45:00.000Z",
+    "encerradoEm": "2026-11-01T11:45:00.000Z",
+    "tecnico": "Beatriz Lima (Infraestrutura)",
+    "notasAtendimento": "Permissões de leitura e escrita adicionadas no grupo de segurança 'AD_Vendas'. Solicitante testou e confirmou o acesso com sucesso."
+  },
+  {
+    "id": 3,
+    "solicitante": "Camila Duarte (Recursos Humanos)",
+    "titulo": "Lentidão crítica e quedas na conexão Wi-Fi corporativa",
+    "categoria": "Rede e Internet",
+    "descricao": "Os computadores da sala de treinamento perdem a conexão com a rede Wi-Fi a cada 15 minutos durante videoconferências.",
+    "status": "Aberto",
+    "criadoEm": "2026-11-03T10:30:00.000Z",
+    "atualizadoEm": null,
+    "encerradoEm": null,
+    "tecnico": null,
+    "notasAtendimento": null
+  }
+]

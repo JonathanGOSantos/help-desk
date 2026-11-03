@@ -1,0 +1,21 @@
+{
+  "name": "sistema-help-desk",
+  "version": "1.0.0",
+  "description": "MVP de Sistema de Chamados de Suporte desenvolvido seguindo a metodologia Spec-Driven Development (SDD)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node tests/test-acceptance.js"
+  },
+  "keywords": [
+    "spec-driven-development",
+    "help-desk",
+    "sdd",
+    "mvp"
+  ],
+  "author": "Equipe de Engenharia de Software",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
